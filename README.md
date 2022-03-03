@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ZeroSung
+- 👋 Hi, I’m @Sung
 - 👀 I’m interested in Web_Hack, mobile_Hack
